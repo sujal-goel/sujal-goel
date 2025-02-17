@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-A highly motivated TechSolution<br>enthusiast with a relentless passion<br>for innovation, problem-solving,<br>and leadership. <br>Results-driven and committed to leveraging<br>cutting-edge technology to create<br>impactful solutions.<br>Possesses strong leadership qualities and the<br>art of communication to drive team<br>success and foster collaboration.<br>Thrives in dynamic environments,<br>embracing challenges with a<br>continuous learning mindset. Adept<br>at strategizing, inspiring teams,<br>and delivering transformative tech<br>solutions. <br>Always eager to explore emerging technologies<br>and push the boundaries of what's possible in the<br>digital world.
+- A highly motivated TechSolution<br>enthusiast with a relentless passion<br>for innovation, problem-solving,<br>and leadership. <br>
+- Results-driven and committed to leveraging<br>cutting-edge technology to create<br>impactful solutions.<br>
+- Possesses strong leadership qualities and the<br>art of communication to drive team<br>success and foster collaboration.<br>
+- Thrives in dynamic environments,<br>embracing challenges with a<br>continuous learning mindset. Adapt<br>at strategizing, inspiring teams,<br>and delivering transformative tech<br>solutions. <br>
+- Always eager to explore emerging technologies<br>and push the boundaries of what's possible in the<br>digital world.
 
 
 ## 🌐 Socials:
